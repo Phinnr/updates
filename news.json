@@ -1,12 +1,12 @@
 [
   {
-    "version": "TorrentServer 1.3.6",
+    "version": "V1.3.6",
     "versionInt": 136,
     "link": "https://t.me/flixbrasil",
     "desc": "- Minor cosmetic changes\n- Some bugs fixed"
   },
   {
-    "version": "TorrentServer 1.3.5", 
+    "version": "V1.3.5", 
     "versionInt": 135,
     "link": "https://t.me/flixbrasil",
     "desc": "- Interface changes\n- Other changes"
